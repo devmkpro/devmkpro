@@ -135,7 +135,7 @@ Real-time tracking  ·  Adaptive assessment engine
 ## Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/maike-rosa-da-silva-3090141ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/maike-s-3090141ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/_devmk"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://discord.gg/_devmk"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
