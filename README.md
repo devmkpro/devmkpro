@@ -3,14 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devmkpro/codebrain"><img src="https://img.shields.io/badge/🧠_Building-Codebrain-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTExUzE3LjUyIDIgMTIgMnptLTIgMTVsLTUtNSAxLjQxLTEuNDFMMTAgMTQuMTdsNy41OS03LjU5TDE5IDhsLTkgOXoiLz48L3N2Zz4=" alt="Codebrain"/></a>
+  <a href="https://github.com/devmkpro/codebrain"><img src="https://img.shields.io/badge/🧠_Building-Codebrain-4F46E5?style=for-the-badge" alt="Codebrain"/></a>
   <img src="https://komarev.com/ghpvc/?username=devmkpro&label=Profile+views&color=4F46E5&style=for-the-badge" alt="views"/>
 </p>
 
-<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/devmkpro/codebrain">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=🧠+Building+Codebrain+-+Multi-Agent+AI+IDE;⚡+244+MCP+tools+%7C+Browser+automation+%7C+Shared+memory;🚀+Where+AI+agents+work+together%2C+not+alone" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=4F46E5&center=true&vCenter=true&width=550&lines=Building+Codebrain+-+Multi-Agent+AI+IDE;244+MCP+tools+%7C+Browser+automation+%7C+Shared+memory" alt="Typing SVG" />
   </a>
 </p>
 
@@ -118,7 +117,7 @@ Codebrain Architecture
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Element" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40">
@@ -144,21 +143,6 @@ Codebrain Architecture
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmkpro&theme=transparent&background=0D1117&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="Streak" height="150">
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devmkpro/devmkpro/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devmkpro&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Issues,PR,Repositories" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ## Connect
@@ -173,10 +157,6 @@ Codebrain Architecture
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake"/>
 </p>
 
 <p align="center">
