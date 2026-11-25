@@ -52,7 +52,7 @@ Mission management  Marketplace
 </td>
 <td width="50%" valign="top">
 
-### 🔧 [AiParts](https://aiparts.com.br/)
+### 🔧 [Peça no Chat](https://pecanochat.com.br)
 **Auto Parts Intelligence**
 
 > Laravel + AI for automotive parts e-commerce.
